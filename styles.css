@@ -72,6 +72,10 @@ header{
     
 }
 
+.features{
+    margin-bottom: 22.5px;
+}
+
 
 
 
@@ -430,7 +434,7 @@ main{
 
 
 .div1{
-    width:600px;
+    width:425px;
     height:500px;
     background-color:black;
     margin-top: 50px;
@@ -456,7 +460,7 @@ main{
 
 .div2{
 
-    width: 500px;
+    width: 400px;
     height: 500px;
     background-color:black;
     margin-top: 50px;
