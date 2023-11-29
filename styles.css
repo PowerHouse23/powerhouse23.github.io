@@ -2,13 +2,12 @@
 
 @font-face {
     font-family: 'plateiabold';
-    src: url('./plateia_bold_400-webfont.woff2') format('woff2'),
-         url('plateia_bold_400-webfont.woff') format('woff');
+    src: url('plateia_bold_400.woff2') format('woff2'),
+         url('plateia_bold_400.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
-
 
 body{
 
@@ -16,6 +15,7 @@ body{
     box-sizing: border-box;
     padding: 0;
     margin:0;
+    overflow-x: hidden;
     
    
 
@@ -38,6 +38,7 @@ header{
     position: fixed;
     z-index:4;
     width:100vw;
+    height:11.5vh;
     
    
     
@@ -73,7 +74,7 @@ header{
 }
 
 .features{
-    margin-bottom: 22.5px;
+    margin-bottom: 30px;
 }
 
 
@@ -83,7 +84,7 @@ header{
 a{
     color:white;
     text-decoration: none;
-    font-family: 'plateiabold', ;
+    font-family: 'plateiabold';
     
     
 }
@@ -232,10 +233,11 @@ main{
 .smokeheadline{
 
     color:white;
-    font-family: 'plateiabold', sans-serif;
+    font-family: 'plateiabold';
     
     font-size: 20px;
     padding-left: 10px;
+    
 
 }
 .smokepara{
