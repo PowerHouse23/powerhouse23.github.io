@@ -1,10 +1,12 @@
-@import url('https://fonts.cdnfonts.com/css/Plateia-Bold');
+@import url('https://fonts.cdnfonts.com/css/plateiabold');
 
 @font-face {
-    font-family: 'Plateia-Bold-Bold';
+    font-family: 'plateiabold';
+    src: url('./plateia_bold_400-webfont.woff2') format('woff2'),
+         url('plateia_bold_400-webfont.woff') format('woff');
+    font-weight: normal;
     font-style: normal;
-    font-weight: 400;
-    src: local('Plateia-Bold'), url('https://fonts.cdnfonts.com/s/31863/Plateia-Bold Bold.woff') format('woff');
+
 }
 
 
@@ -77,7 +79,7 @@ header{
 a{
     color:white;
     text-decoration: none;
-    font-family: 'Plateia-Bold-Bold', ;
+    font-family: 'plateiabold', ;
     
     
 }
@@ -120,7 +122,7 @@ main{
 .obtain{
     font-size: 90px;
     color: white;
-    font-family: 'Plateia-Bold', sans-serif;
+    font-family: 'plateiabold', sans-serif;
     
     margin-left: 20px;
     letter-spacing: 10px;
@@ -145,7 +147,7 @@ main{
 .fitness{
     font-size:150px;
     color: white;
-    font-family: 'Plateia-Bold', sans-serif;
+    font-family: 'plateiabold', sans-serif;
     
     margin-left: 20px;
     letter-spacing: 35px;
@@ -170,7 +172,7 @@ main{
 .goal{
     font-size:100px;
     color: white;
-    font-family: 'Plateia-Bold', sans-serif;
+    font-family: 'plateiabold', sans-serif;
     
     letter-spacing: 10px;
     margin-left: 900px;
@@ -226,7 +228,7 @@ main{
 .smokeheadline{
 
     color:white;
-    font-family: 'Plateia-Bold', sans-serif;
+    font-family: 'plateiabold', sans-serif;
     
     font-size: 20px;
     padding-left: 10px;
@@ -234,7 +236,7 @@ main{
 }
 .smokepara{
     color:white;
-    font-family: 'Plateia-Bold', sans-serif;
+    font-family: 'plateiabold', sans-serif;
 
 }
 
@@ -243,7 +245,7 @@ main{
     height:50px;
     width:300px;
     text-align: center;
-    font-family: 'Plateia-Bold', sans-serif;
+    font-family: 'plateiabold', sans-serif;
     background-color: red;
     color:white;
     border:1px solid red;
@@ -274,7 +276,7 @@ main{
 
 .section4heading{
 
-    font-family: 'Plateia-Bold', sans-serif;
+    font-family: 'plateiabold', sans-serif;
     font-size: 30px;
     color:white;
     
@@ -311,7 +313,7 @@ main{
 
 
 .sec2{
-    font-family: 'Plateia-Bold', sans-serif;
+    font-family: 'plateiabold', sans-serif;
     text-align: center;
     font-size: 25px;
     color: white;
@@ -338,7 +340,7 @@ main{
 }
 
 .section5heading{
-    font-family: 'Plateia-Bold', sans-serif;
+    font-family: 'plateiabold', sans-serif;
     color:white;
     text-align: center;
     font-size: 25px;
@@ -368,7 +370,7 @@ main{
 
 .price1{
     color:white;
-    font-family: 'Plateia-Bold', sans-serif;
+    font-family: 'plateiabold', sans-serif;
     text-align: center;
     font-size: 25px;
     color:black;
@@ -379,7 +381,7 @@ main{
 
 .price2{
     color:white;
-    font-family: 'Plateia-Bold', sans-serif;
+    font-family: 'plateiabold', sans-serif;
     text-align: center;
     font-size: 25px;
     font-weight: 700;
@@ -388,7 +390,7 @@ main{
 
 .price3{
     color:white;
-    font-family: 'Plateia-Bold', sans-serif;
+    font-family: 'plateiabold', sans-serif;
     text-align: center;
     font-size: 18px;
     list-style-type: none;
@@ -404,7 +406,7 @@ main{
     height:50px;
     width:300px;
     text-align: center;
-    font-family: 'Plateia-Bold', sans-serif;
+    font-family: 'plateiabold', sans-serif;
     background-color: red;
     color:white;
     border:1px solid red;
@@ -432,7 +434,7 @@ main{
     height:500px;
     background-color:black;
     margin-top: 50px;
-    font-family: 'Plateia-Bold', sans-serif;
+    font-family: 'plateiabold', sans-serif;
     color: white;
     font-size: 30px;
     padding-left: 15px;
@@ -459,7 +461,7 @@ main{
     background-color:black;
     margin-top: 50px;
     color: white;
-    font-family: 'Plateia-Bold', sans-serif;
+    font-family: 'plateiabold', sans-serif;
     border-bottom: 3px solid grey;
     border-right: 3px solid grey;
     padding-left: 15px;
@@ -472,7 +474,7 @@ main{
     background-color:black;
     margin-top: 50px;
     color:white;
-    font-family: 'Plateia-Bold', sans-serif;
+    font-family: 'plateiabold', sans-serif;
     padding-left: 50px;
     border-bottom: 3px solid grey;
     border-right: 3px solid grey;
@@ -494,14 +496,14 @@ main{
 
 .two{
     font-size:40px;
-    font-family: 'Plateia-Bold', sans-serif;
+    font-family: 'plateiabold', sans-serif;
     
 }
 
 .footer{
     color:white;
     text-align: center;
-    font-family: 'Plateia-Bold', sans-serif;
+    font-family: 'plateiabold', sans-serif;
     font-size: 25px;
     
 }
@@ -539,7 +541,7 @@ main{
     .obtain{
         font-size: 80px;
         color: white;
-        font-family: 'Plateia-Bold', sans-serif;
+        font-family: 'plateiabold', sans-serif;
         
         margin-left: 5px;
         
@@ -565,7 +567,7 @@ main{
     .fitness{
         font-size:80px;
         color: white;
-        font-family: 'Plateia-Bold', sans-serif;
+        font-family: 'plateiabold', sans-serif;
         
         margin-left: 5px;
         
@@ -591,7 +593,7 @@ main{
     .goal{
         font-size:80px;
         color: white;
-        font-family: 'Plateia-Bold', sans-serif;
+        font-family: 'plateiabold', sans-serif;
         
         
         
@@ -655,7 +657,7 @@ main{
     .smokeheadline{
     
         color:white;
-        font-family: 'Plateia-Bold', sans-serif;
+        font-family: 'plateiabold', sans-serif;
         
         font-size: 20px;
         padding-left: 10px;
@@ -663,7 +665,7 @@ main{
     }
     .smokepara{
         color:white;
-        font-family: 'Plateia-Bold', sans-serif;
+        font-family: 'plateiabold', sans-serif;
     
     }
     
@@ -672,7 +674,7 @@ main{
         height:50px;
         width:300px;
         text-align: center;
-        font-family: 'Plateia-Bold', sans-serif;
+        font-family: 'plateiabold', sans-serif;
         background-color: red;
         color:white;
         border:1px solid red;
@@ -694,7 +696,7 @@ main{
 
     }
     .section5heading{
-        font-family: 'Plateia-Bold', sans-serif;
+        font-family: 'plateiabold', sans-serif;
         color:white;
         text-align: center;
         font-size: 25px;
@@ -703,7 +705,7 @@ main{
     }
     .section4heading{
 
-        font-family: 'Plateia-Bold', sans-serif;
+        font-family: 'plateiabold', sans-serif;
         font-size: 30px;
         color:white;
         text-align: center;
