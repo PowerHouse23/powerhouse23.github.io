@@ -709,6 +709,10 @@ main{
         width:100vw;
         
     }
+    .pricing{
+        height:auto;
+        width:auto;
+        overflow-x:hidden;
 
     .pricing{
         height:auto;
