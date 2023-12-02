@@ -584,6 +584,7 @@ main{
         
         top:200px;
         overflow-x: hidden;
+        max-width: 100vw;
         
         
         
@@ -609,7 +610,7 @@ main{
         left:-800px;
         overflow-x: hidden;
         font-weight: bolder;
-        
+        max-width:100vw;
         
        
         
