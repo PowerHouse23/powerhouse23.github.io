@@ -521,7 +521,7 @@ main{
       box-sizing: border-box;
       padding: 0;
       margin:0;
-    
+      letter-spacing: 5px;
     }
     
     
@@ -708,6 +708,11 @@ main{
         font-size: 25px;
         width:100vw;
         
+    }
+
+    .pricing{
+        height:auto;
+        width:auto;
     }
     .section4heading{
 
