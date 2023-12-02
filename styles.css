@@ -572,7 +572,7 @@ main{
         color: white;
         font-family: 'plateiabold', sans-serif;
         font-weight: bolder;
-        
+        overflow-x: hidden;
         margin-left: 5px;
         
         height: 100vh;
