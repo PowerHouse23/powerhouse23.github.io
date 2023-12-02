@@ -521,7 +521,7 @@ main{
       box-sizing: border-box;
       padding: 0;
       margin:0;
-      letter-spacing: 5px;
+      
     }
     
     
@@ -714,10 +714,7 @@ main{
         width:auto;
         overflow-x:hidden;
 
-    .pricing{
-        height:auto;
-        width:auto;
-    }
+    
     .section4heading{
 
         font-family: 'plateiabold', sans-serif;
