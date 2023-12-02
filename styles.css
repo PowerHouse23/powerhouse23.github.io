@@ -554,7 +554,7 @@ main{
         position: absolute;
         top:130px;
         z-index:2;
-        overflow: hidden;
+        overflow-x: hidden;
        
         
         
@@ -582,7 +582,7 @@ main{
         letter-spacing: 20px;
         
         top:180px;
-        overflow: hidden;
+        overflow-x: hidden;
         
         
         
@@ -606,7 +606,7 @@ main{
         position: absolute;
         top:380px;
         left:-800px;
-        overflow: hidden;
+        overflow-x: hidden;
         font-weight: bolder;
         
        
